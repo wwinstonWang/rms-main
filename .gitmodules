@@ -1,0 +1,27 @@
+[submodule "rms-module-gateway"]
+	path = rms-module-gateway
+	url = git@github.com:uCloudCastle/rms-module-gateway.git
+[submodule "rms-jpush"]
+	path = rms-jpush
+	url = git@github.com:uCloudCastle/rms-jpush.git
+[submodule "rms-mq"]
+	path = rms-mq
+	url = git@github.com:uCloudCastle/rms-mq.git
+[submodule "rms-wechat-mp"]
+	path = rms-wechat-mp
+	url = git@github.com:uCloudCastle/rms-wechat-mp.git
+[submodule "rms-module-projectmanage"]
+	path = rms-module-projectmanage
+	url = git@github.com:uCloudCastle/rms-module-projectmanage.git
+[submodule "rms-module-deviceinspect"]
+	path = rms-module-deviceinspect
+	url = git@github.com:uCloudCastle/rms-module-deviceinspect.git
+[submodule "wt-media"]
+	path = wt-media
+	url = git@github.com:uCloudCastle/wt-media.git
+[submodule "rms-module-system"]
+	path = rms-module-system
+	url = git@github.com:uCloudCastle/rms-module-system.git
+[submodule "rms-module-devicemonitor"]
+	path = rms-module-devicemonitor
+	url = git@github.com:uCloudCastle/rms-module-devicemonitor.git
